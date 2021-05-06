@@ -1,0 +1,4 @@
+**Student Details**
+Name			Age		School		Sex		Field
+
+S.M.P.D.			19		T.C.K		male		Medicine
